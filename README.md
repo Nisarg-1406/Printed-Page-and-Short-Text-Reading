@@ -41,6 +41,8 @@
     ```
     
 ## About Me
+**IF YOU LIKED MY WORK, PLEASE HIT THE STAR BUTTON, AND IF POSSIBLE DO PLEASE SHARE, SO THAT COMMUNITY CAN GET BENIFIT OUT OF IT BEACUSE I AM EXLPANING EACH AND EVERY LINE OF CODE FOR EACH AND EVERY PROJECT OF MINE.**
+
 I am Solving **Algorithms and Data Structure Problems from more than 210 Days Without any off-Day and have solved more than 400 Questions on various topics**.
 You can Visit my Profile of LeetCode here - **https://leetcode.com/Nisarg1406/**
 
