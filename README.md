@@ -3,6 +3,7 @@
 ## Table of Contents - 
 * [About Project](#about-project)
 * [Detailed Explanation about Project](#detailed-explanation-about-project)
+* [Output Images](#output-images)
 * [About Me](#about-me)
 
 ## About Project
@@ -39,11 +40,18 @@
     extractedInformation = pytesseract.image_to_string(Image.open('FILE_NAME.jpg'))
     print(extractedInformation)
     ```
-    
+
+## Output Images
+
+  <img src = "Images/Printed Pages - Input Image 1.jpg" width = "600">
+  <img src = "Images/Printed Pages - Output Image 1.jpg" width = "600">
+  <img src = "Images/Short Text - Input Image 2.jpg" width = "200"> 
+  <img src = "Images/Short Text - Output Image 2.jpg" width = "200">
+
 ## About Me
 **IF YOU LIKED MY WORK, PLEASE HIT THE STAR BUTTON, AND IF POSSIBLE DO PLEASE SHARE, SO THAT COMMUNITY CAN GET BENIFIT OUT OF IT BEACUSE I AM EXLPANING EACH AND EVERY LINE OF CODE FOR EACH AND EVERY PROJECT OF MINE.**
 
-Also I am Solving **Algorithms and Data Structure Problems from more than 220 Days Without any off-Day and have solved more than 405 Questions on various topics and posting my solutions on Github Daily**. You can Visit my Profile of LeetCode here - **https://leetcode.com/Nisarg1406/**
+Also I am Solving **Algorithms and Data Structure Problems from more than 230 Days Without any off-Day and have solved more than 405 Questions on various topics and posting my solutions on Github Daily**. You can Visit my Profile of LeetCode here - **https://leetcode.com/Nisarg1406/**
 
 I am good at Algorithms and Data structure and I have good Projects in Machine learning and Deep Learning (Computer Vision). **I am and would be posting the detialed explantion of each and every project working**. I am activily looking for an Internhip in **Software development enginering (SDE) Domain and Machine learning Domain**.
 
